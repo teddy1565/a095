@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+
 int main(void) {
     int n,m;
     while(~scanf("%d%d",&n,&m)) {
